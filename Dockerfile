@@ -1,4 +1,4 @@
-FROM python:3.13-slim
+FROM python:3.15-slim
 WORKDIR /app
 COPY plexport /app/plexport
 ENV PYTHONUNBUFFERED=1 PLEXPORT_HOST=0.0.0.0 PLEXPORT_DATA=/data PLEXPORT_DOWNLOADS=/downloads PLEXPORT_MEDIA=/media
