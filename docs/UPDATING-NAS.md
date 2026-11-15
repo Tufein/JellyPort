@@ -10,7 +10,8 @@ This is a host-side tool, not a service manager. Discover the actual PlexPort
 service and mount paths before running it. Do not substitute the example NAS
 address, app name, storage pool or UID from the installation guide for your
 actual configuration. Run only one PlexPort instance against a data folder.
-Python 3.9 or newer is required on the host.
+Python 3.11 or newer is required on the host: that is the version PlexPort itself supports (see
+`docs/TECHNISCH.md`). The update tool in this section only uses the Python standard library.
 
 ## Prepare a verified release
 

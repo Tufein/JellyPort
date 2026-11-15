@@ -1,6 +1,6 @@
 # Help improve PlexPort
 
-You do not need a technical background to help. [Report a problem](https://github.com/Tufein/PlexPort/issues/new?template=probleem.yml), [suggest a feature](https://github.com/Tufein/PlexPort/issues/new?template=idee.yml), or tell us which instructions are confusing.
+You do not need a technical background to help. [Report a problem](https://github.com/Tufein/JellyPort/issues/new?template=probleem.yml), [suggest a feature](https://github.com/Tufein/JellyPort/issues/new?template=idee.yml), or tell us which instructions are confusing.
 
 Use examples without private access details. Reports in this repository are public. English is welcome.
 

@@ -44,4 +44,4 @@ Use the **PlexPort address**, including `:8765` if you use the default port. Sig
 
 ## I want to report a problem
 
-[Open the problem form](https://github.com/Tufein/PlexPort/issues/new?template=probleem.yml). Include your device, what you did and the message you see. **GitHub is public:** do not share passwords, tokens, complete settings files or unfiltered logs.
+[Open the problem form](https://github.com/Tufein/JellyPort/issues/new?template=probleem.yml). Include your device, what you did and the message you see. **GitHub is public:** do not share passwords, tokens, complete settings files or unfiltered logs.

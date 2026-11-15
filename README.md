@@ -9,7 +9,7 @@
 Find a movie or TV show, choose a version and follow the download.
 PlexPort puts completed videos in the right media folder.
 
-[Get started](#get-started) · [How to use it](docs/GEBRUIKEN.md) · [Search sources](docs/SOURCES.md) · [Need help?](docs/HULP.md) · [Download Android app](https://github.com/Tufein/PlexPort/raw/refs/heads/main/android/dist/PlexPort-1.2.0.apk)
+[Get started](#get-started) · [How to use it](docs/GEBRUIKEN.md) · [Search sources](docs/SOURCES.md) · [Need help?](docs/HULP.md) · [Download Android app](https://github.com/Tufein/JellyPort/raw/refs/heads/main/android/dist/PlexPort-1.2.0.apk)
 
 </div>
 
@@ -53,7 +53,7 @@ Choose the option that matches your setup:
 | **Away from home (any device)** | [Use Tailscale](docs/START-REMOTE.md) — PlexPort must already be running |
 | **My Android phone** | [Install Android app](docs/START-ANDROID.md) — PlexPort must already be running on your NAS or computer |
 
-[Download the app files as a ZIP](https://github.com/Tufein/PlexPort/archive/refs/heads/main.zip) and extract them first. **PlexPort is not yet a one-click app in the TrueNAS app catalog.** Initial setup needs your server address and folder settings; the TrueNAS guide walks you through them.
+[Download the app files as a ZIP](https://github.com/Tufein/JellyPort/archive/refs/heads/main.zip) and extract them first. **PlexPort is not yet a one-click app in the TrueNAS app catalog.** Initial setup needs your server address and folder settings; the TrueNAS guide walks you through them.
 
 ## Your first download in three steps
 
@@ -74,13 +74,23 @@ You can also use **Download toevoegen (Add download)** for your own link or torr
 
 ## Something isn't working
 
-[Read the troubleshooting guide](docs/HULP.md). If your problem is not covered, [report it](https://github.com/Tufein/PlexPort/issues/new?template=probleem.yml) and describe what you see. Do not share passwords or private access details.
+[Read the troubleshooting guide](docs/HULP.md). If your problem is not covered, [report it](https://github.com/Tufein/JellyPort/issues/new?template=probleem.yml) and describe what you see. Do not share passwords or private access details.
 
-Have an idea? [Suggest a feature](https://github.com/Tufein/PlexPort/issues/new?template=idee.yml).
+Have an idea? [Suggest a feature](https://github.com/Tufein/JellyPort/issues/new?template=idee.yml).
 
 <details>
 <summary>For administrators and developers</summary>
 
-[Technical guide](docs/TECHNISCH.md) · [Update an existing NAS](docs/UPDATING-NAS.md) · [TrueNAS folder setup](INSTALLATIE-TRUENAS.md) · [Build Android app](android/README.md) · [Contribute](CONTRIBUTING.md) · [What's new](CHANGELOG.md) · [Roadmap](ROADMAP.md)
+[Technical guide](docs/TECHNISCH.md) · [Update an existing NAS](docs/UPDATING-NAS.md) · [TrueNAS folder setup](INSTALLATIE-TRUENAS.md) · [Build Android app](android/README.md) · [Contribute](CONTRIBUTING.md) · [Security](SECURITY.md) · [What's new](CHANGELOG.md) · [Roadmap](ROADMAP.md)
 
 </details>
+
+## License
+
+PlexPort is released under the [AGPL-3.0-or-later](LICENSE). Because the server is self-hosted, the
+AGPL network clause applies: a modified version offered over a network must publish its source.
+Bundled third-party data and dependencies retain their own licenses.
+
+## Security
+
+See [SECURITY.md](SECURITY.md) for how to report a vulnerability and which secrets this project stores.

@@ -16,7 +16,7 @@ These are examples, not values to copy without checking. **Capital letters matte
 
 ## 2. Download and place PlexPort
 
-[Download the app files](https://github.com/Tufein/PlexPort/archive/refs/heads/main.zip) and extract them. Place them in a separate app folder on your NAS. Keep settings in a separate folder so you can retain them during updates.
+[Download the app files](https://github.com/Tufein/JellyPort/archive/refs/heads/main.zip) and extract them. Place them in a separate app folder on your NAS. Keep settings in a separate folder so you can retain them during updates.
 
 This is the one-time technical step: [follow the folder layout and installation example](../INSTALLATIE-TRUENAS.md#folders-and-app-user). It explains which folders to connect and which user needs access.
 

@@ -43,4 +43,4 @@ The [Radarr settings guide](https://wiki.servarr.com/radarr/settings) and [Sonar
 
 [Plex's TV naming guide](https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/) informs episode naming. [Tautulli's notification guide](https://docs.tautulli.com/using-tautulli/notification-agents-guide) is a reference for notification channels and conditions; no Tautulli integration is included.
 
-[Suggest an improvement](https://github.com/Tufein/PlexPort/issues/new?template=idee.yml).
+[Suggest an improvement](https://github.com/Tufein/JellyPort/issues/new?template=idee.yml).
